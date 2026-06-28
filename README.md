@@ -1,2 +1,2 @@
 # Image Resizer
-Resize images using Pillow.
+Resize images using Pillow ponyal da
